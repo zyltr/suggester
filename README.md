@@ -1,0 +1,1 @@
+A simple Django application that generates password suggestions
